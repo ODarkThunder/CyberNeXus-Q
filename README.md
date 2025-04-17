@@ -63,7 +63,7 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 1.  **Clone the Repository:**
     ```bash
     git clone <your-repository-url>
-    cd cybernexus-q-pi-eye
+    cd CyberNeXus-Q
     ```
 
 2.  **Create and Activate Virtual Environment (Recommended):**
@@ -100,7 +100,7 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 
 ## ▶️ Running the App
 
-Ensure your virtual environment is activated. From the project's root directory (`cybernexus-q-pi-eye/`):
+Ensure your virtual environment is activated. From the project's root directory (`CyberNeXus-Q/`):
 
 ```bash
 streamlit run cybernexus_q.py
