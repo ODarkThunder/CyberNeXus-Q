@@ -1,5 +1,3 @@
-# CyberNeXus-Q
-A network security using Artificial Intelligence and Quantum Concepts simulations
 # CyberNexus Q - Pi-Eye 🌌 (Azure AI & Quantum Inspired)
 
 **Entry for the AI_AGENTS_HACKATHON**
