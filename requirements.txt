@@ -16,3 +16,4 @@ SpeechRecognition
 # Optional: Quantum libraries (if you enable the features)
 # amazon-braket-sdk
 # qiskit
+azure-quantum
