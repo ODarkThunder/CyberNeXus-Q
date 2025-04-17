@@ -12,8 +12,7 @@ CyberNexus Q is an advanced AI agent designed for comprehensive Raspberry Pi (or
 
 Built with Streamlit, it provides a web-based interface for monitoring system resources, analyzing network traffic, managing Pi-hole ad-blocking, performing simulated quantum-resilience security checks, and analyzing visual content via screen sharing combined with Azure AI Vision.
 
-**[Insert Screenshot/GIF of the App Here - Highly Recommended!]**
-*(Replace this line with an actual image link or embedded image)*
+![Excited GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd210cW1wcjlxZjB5azB6YXUxdXR2NHZlb2I4dW1zM2dhbzVxajZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2bO8PkfwL0qYbW5li/giphy.gif)
 
 ---
 
@@ -104,4 +103,4 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 Ensure your virtual environment is activated. From the project's root directory (`cybernexus-q-pi-eye/`):
 
 ```bash
-streamlit run app.py
+streamlit runybernexus_q.py
