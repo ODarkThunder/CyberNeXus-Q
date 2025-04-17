@@ -102,4 +102,4 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 Ensure your virtual environment is activated. From the project's root directory (`cybernexus-q-pi-eye/`):
 
 ```bash
-streamlit runybernexus_q.py
+streamlit run cybernexus_q.py
