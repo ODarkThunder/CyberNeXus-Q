@@ -1,0 +1,18 @@
+streamlit # Use a recent version
+azure-ai-inference # Match the SDK version you intend to use
+azure-core
+pandas
+psutil
+speedtest-cli
+opencv-python # For cv2
+numpy
+requests
+Pillow # For PIL
+mss # For screen capture
+pyttsx3
+SpeechRecognition
+# Optional: Add if pyttsx3 needs it on your target OS (e.g., Windows)
+# pypiwin32
+# Optional: Quantum libraries (if you enable the features)
+# amazon-braket-sdk
+# qiskit
