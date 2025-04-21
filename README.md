@@ -56,6 +56,24 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 
 ---
 
+## 📃 Repository Structure
+
+## 📃 Repository Structure 
+```
+DocuNexus-AGI-Agent/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── cybernexus_q.py           # Your main Streamlit application script (the modified one)
+├── requirements.txt
+├── secrets.toml.example      # Example configuration file (IMPORTANT!)
+├── assets/
+│   ├── human.png             # Placeholder for user avatar
+│   └── robot.png             # Placeholder for AI avatar
+```
+
+---
+
 ## 🚀 Setup & Installation
 
 1.  **Clone the Repository:**
