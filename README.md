@@ -56,8 +56,6 @@ Built with Streamlit, it provides a web-based interface for monitoring system re
 
 ---
 
-## 📃 Repository Structure
-
 ## 📃 Repository Structure 
 ```
 DocuNexus-AGI-Agent/
@@ -68,8 +66,8 @@ DocuNexus-AGI-Agent/
 ├── requirements.txt
 ├── secrets.toml.example      # Example configuration file (IMPORTANT!)
 ├── assets/
-│   ├── human.png             # Placeholder for user avatar
-│   └── robot.png             # Placeholder for AI avatar
+    ├── human.png             # Placeholder for user avatar
+    └── robot.png             # Placeholder for AI avatar
 ```
 
 ---
